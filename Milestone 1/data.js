@@ -1,4 +1,4 @@
-[
+const icons = [
 	{
 		name: 'cat',
 		prefix: 'fa-',
@@ -112,3 +112,5 @@
 		color: 'blue'
 	}
 ];
+
+const container = document.getElementById('mf-container');
